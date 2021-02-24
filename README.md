@@ -4,5 +4,5 @@ I'm a front-end developer from Northern California who is passionate about build
 
 
 ## Find me on the web 🌎:
-- Personal site <a href="https://www.derick.dev">derick.dev</a>(coming soon) 👨‍💻
+- Personal site <a href="https://www.derick.dev">derick.dev</a> (coming soon) 👨‍💻
 - Connect with me on <a href="https://www.linkedin.com/in/derickmoncado/">LinkedIn</a> 💼
