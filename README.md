@@ -6,4 +6,4 @@ I'm a front-end developer who is passionate about building clean, usable, and ac
 ### Find me on the web 🌎:
 - Follow me on <a href="https://twitter.com/derickcodes" target="_blank">Twitter</a> 🐦
 - Connect with me on <a href="https://www.linkedin.com/in/derickmoncado/" target="_blank">LinkedIn</a> 💼
-- Check out my personal site <a target="_blank" href="#">derick.codes</a> - <i>coming soon!</i> 👨‍💻
+- Check out my personal site <a target="_blank" href="https://derick.codes/">derick.codes</a> 👨‍💻
